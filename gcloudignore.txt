@@ -1,6 +1,8 @@
 # Ignore everything
 /*
 
+#!include:.gitignore
+
 # Except these files:
 !main.py
 
