@@ -2,6 +2,8 @@
 /*
 
 #!include:.gitignore
+*
+!.gitignore
 
 # Except these files:
 !main.py
